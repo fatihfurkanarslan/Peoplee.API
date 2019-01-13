@@ -1,0 +1,14 @@
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\bin\Debug\netcoreapp2.2\Peoplee.API.deps.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\bin\Debug\netcoreapp2.2\Peoplee.API.runtimeconfig.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\bin\Debug\netcoreapp2.2\Peoplee.API.runtimeconfig.dev.json
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\bin\Debug\netcoreapp2.2\Peoplee.API.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\bin\Debug\netcoreapp2.2\Peoplee.API.pdb
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.csprojAssemblyReference.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.csproj.CoreCompileInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.RazorAssemblyInfo.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.RazorAssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.AssemblyInfoInputs.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.AssemblyInfo.cs
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.RazorTargetAssemblyInfo.cache
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.dll
+C:\Users\fatihfurkan.DESKTOP-LDVGTNI\Desktop\Github\Peoplee.API\obj\Debug\netcoreapp2.2\Peoplee.API.pdb
